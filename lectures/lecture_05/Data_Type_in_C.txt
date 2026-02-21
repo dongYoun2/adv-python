@@ -1,0 +1,2 @@
+Data Type in C: 
+https://byjus.com/gate/data-types-in-c/#:~:text=Types%20of%20Data%20Types%20in%20C,-Here%20are%20the&text=Floating%2Dpoint%2C%20integer%2C%20double%2C%20character.&text=Union%2C%20structure%2C%20array%2C%20etc.&text=The%20basic%20data%20types%20are,data%20types%20in%20C%20programming.
