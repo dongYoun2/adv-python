@@ -5,3 +5,9 @@ images
 __pycache__
 
 *.zip
+
+# lecture10/
+figs
+
+# lecture11/
+*.png
