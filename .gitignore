@@ -11,3 +11,6 @@ figs
 
 # lecture11/
 *.png
+
+# lecture12/
+*.npy
