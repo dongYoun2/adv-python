@@ -1,0 +1,34 @@
+name: advpy
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+
+  # GPU / parallel computing
+  - numba
+  - pocl
+  - pyopencl
+
+  # Core scientific stack used across lectures, labs, and assignments
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+  - sympy
+
+  # Jupyter for running the .ipynb notebooks
+  - jupyter
+  - jupyterlab
+  - notebook
+  - ipykernel
+
+  # Other libraries seen in the notebooks/scripts
+  - cython
+  - mpi4py
+  - requests
+  - jax
+  - jaxlib
+
+  # pip fallback (kept empty by default; add pip-only deps here if needed)
+  - pip
+  - pip: []
